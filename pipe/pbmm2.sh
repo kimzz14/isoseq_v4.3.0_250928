@@ -1,0 +1,1 @@
+pbmm2 align --preset ISOSEQ --sort <input.bam> <ref.fa> <mapped.bam>

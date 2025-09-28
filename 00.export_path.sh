@@ -1,1 +1,1 @@
-conda activate mappingTools_v01_250114
+conda activate isoseq_v4.3.0_250928
